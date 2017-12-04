@@ -1,0 +1,14 @@
+
+.title{
+  background-color: #EEEEEE;
+  border-radius: 0.5em;
+}
+.btn, .badges{
+  margin-bottom: 1%;
+}
+.labels{
+  display: inline-block;
+}
+.alert span{
+	font-weight: bold;
+}
